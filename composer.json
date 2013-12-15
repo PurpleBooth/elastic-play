@@ -1,0 +1,15 @@
+{
+    "name": "purplebooth/elastic-play",
+    "description": "Toy project to play with the capabilities of elastic search",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Billie Alice Thompson",
+            "email": "billie@billiecodes.com"
+        }
+    ],
+    "require": {
+        "elasticsearch/elasticsearch": "~0.4",
+        "fzaninotto/faker" : "*"
+    }
+}

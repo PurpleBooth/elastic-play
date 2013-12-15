@@ -1,0 +1,6 @@
+name 'kibana'
+version '0.0.1'
+author 'Billie Alice Thompson'
+license 'MIT'
+summary 'Kibana module'
+description "Install kibana."

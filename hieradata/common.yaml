@@ -3,6 +3,7 @@ classes:
   - elasticsearch
   - java
   - php::cli
+  - kibana
 
 php_ini:
   '/etc/php.ini':
